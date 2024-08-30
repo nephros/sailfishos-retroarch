@@ -1,0 +1,3 @@
+[submodule "retroarch-rpm-macros"]
+	path = retroarch-rpm-macros
+	url = https://github.com/nephros/retroarch-rpm-macros
